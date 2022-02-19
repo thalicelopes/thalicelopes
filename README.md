@@ -18,3 +18,6 @@
   <img title="CSS" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
   <img title="Bootstrap" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
 </div>
+
+  
+  ![Snake animation](https://github.com/thalicelopes/thalicelopes/blob/output/github-contribution-grid-snake.svg)
