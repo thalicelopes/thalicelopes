@@ -1,6 +1,6 @@
 <div align="center" style="font-weight: bold">Olá! 😃😃</div>
-- 🔭 Atuamente estou fazendo estágio...<br/>
-- 🌱 Aprendendo C#...<br/>
+- 🔭 Atuamente estou fazendo estágio<br/>
+- 🌱 Aprendendo programação com foco em C# e Python<br/>
 - 📫 Me contate pelo LinkedIn: https://www.linkedin.com/in/thalicelopes/<br/>
 <br/>
   
