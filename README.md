@@ -1,9 +1,17 @@
 <div align="center" style="font-weight: bold">Olá! 😃😃</div>
-- 🔭 Atuamente estou fazendo estágio<br/>
+- 🔭 Atuamente estou fazendo estágio e cursando 3º período em Sistemas de Informação<br/>
+- 🎯 Meu objetivo neste perfil é acompanhar minha trajetória e evolução na programação, além de compartilhar alguns pequenos projetos que possuo.<br/>
 - 🌱 Aprendendo programação com foco em C# e Python<br/>
-- 📫 Me contate pelo LinkedIn: https://www.linkedin.com/in/thalicelopes/<br/>
 <br/>
-  
+
+<div align="center">
+  Me Contate!<br/><br/>
+  <a href="https://www.linkedin.com/in/thalicelopes/"><img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn" target="_blank" /></a>
+  <a href="mailto:thlopes2002@gmail.com"><img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a><br/><br/>
+</div>
 <div align="center">
   <a href="https://github.com/thalicelopes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thalicelopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -17,6 +25,8 @@
   <img title="HTML" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
   <img title="CSS" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
   <img title="Bootstrap" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
+  <img title="Javascript" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
 </div>
 
   
