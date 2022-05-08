@@ -18,6 +18,11 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalicelopes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <hr/>
+  <div align="center">
+    <h6>Estatísticas</h6>
+      <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thalicelopes&theme=solarized_dark"/>
+  </div>
+<hr/>
 <div style="display: inline_block" align="center">
   <img title=".NET CORE" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg"/>
   <img title="C#" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
