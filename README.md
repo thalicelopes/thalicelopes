@@ -1,6 +1,7 @@
 <div align="center" style="font-weight: bold">Olá! 😃😃</div>
-- 🔭 Atuamente estou fazendo estágio e cursando 3º período em Sistemas de Informação<br/>
-- 🎯 Meu objetivo neste perfil é acompanhar minha trajetória e evolução na programação, além de compartilhar alguns pequenos projetos que possuo.<br/>
+- 👨‍💻 Atuamente atuo como Desenvolvedor Back-End Júnior na e.Mix
+- 📚 Cursando 3º período em Sistemas de Informação<br/>
+- 🎯 Meu objetivo neste perfil é acompanhar minha trajetória e evolução na área de desenvolvimento, além de compartilhar alguns pequenos projetos que possuo.<br/>
 - 🌱 Aprendendo programação com foco em C# e Python<br/>
 <br/>
 
