@@ -1,6 +1,6 @@
 <div align="center" style="font-weight: bold">Olá! 😃😃</div>
 - 👨‍💻 Atuando como Desenvolvedor Back-End Júnior na e.Mix <br/>
-- 📚 Cursando 4º período em Sistemas de Informação<br/>
+- 📚 Cursando 5º período em Sistemas de Informação<br/>
 - 🎯 Meu objetivo neste perfil é acompanhar minha trajetória e evolução na área de desenvolvimento, além de compartilhar alguns pequenos projetos que possuo.<br/>
 - 🌱 Aprendendo programação com foco em C# <br/>
 <br/>
