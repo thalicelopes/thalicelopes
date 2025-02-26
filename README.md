@@ -1,8 +1,8 @@
 <div align="center" style="font-weight: bold">Olá! 😃😃</div>
-- 👨‍💻 Atuando como Desenvolvedor Back-End Júnior na EGD <br/>
-- 📚 Cursando 8º período em Sistemas de Informação<br/>
+- 👨‍💻 Atualmente, busco posição como Desenvolvedor .NET <br/>
+- 📚 Formado em Sistemas de Informação pela UGB<br/>
 - 🎯 Meu objetivo neste perfil é acompanhar minha trajetória e evolução na área de desenvolvimento, além de compartilhar alguns pequenos projetos que possuo.<br/>
-- 🌱 Aprendendo programação com foco em C# <br/>
+- 🌱 Em aprendizado contínuo na programação com foco em C# <br/>
 <br/>
 
 <div align="center">
