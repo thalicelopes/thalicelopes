@@ -1,8 +1,6 @@
 <div align="center" style="font-weight: bold">Olá! 😃😃</div>
-- 👨‍💻 Atualmente, busco posição como Desenvolvedor .NET <br/>
 - 📚 Formado em Sistemas de Informação pela UGB<br/>
-- 🎯 Meu objetivo neste perfil é acompanhar minha trajetória e evolução na área de desenvolvimento, além de compartilhar alguns pequenos projetos que possuo.<br/>
-- 🌱 Em aprendizado contínuo na programação com foco em C# <br/>
+- 🎯 Meu objetivo neste perfil é acompanhar minha trajetória e evolução na área de análise de dados e desenvolvimento, além de compartilhar alguns pequenos projetos que possuo.<br/>
 <br/>
 
 <div align="center">
